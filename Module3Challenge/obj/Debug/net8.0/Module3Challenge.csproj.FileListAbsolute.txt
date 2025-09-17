@@ -1,0 +1,15 @@
+/workspaces/codingChalMod3/Module3Challenge/bin/Debug/net8.0/Module3Challenge
+/workspaces/codingChalMod3/Module3Challenge/bin/Debug/net8.0/Module3Challenge.deps.json
+/workspaces/codingChalMod3/Module3Challenge/bin/Debug/net8.0/Module3Challenge.runtimeconfig.json
+/workspaces/codingChalMod3/Module3Challenge/bin/Debug/net8.0/Module3Challenge.dll
+/workspaces/codingChalMod3/Module3Challenge/bin/Debug/net8.0/Module3Challenge.pdb
+/workspaces/codingChalMod3/Module3Challenge/obj/Debug/net8.0/Module3Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codingChalMod3/Module3Challenge/obj/Debug/net8.0/Module3Challenge.AssemblyInfoInputs.cache
+/workspaces/codingChalMod3/Module3Challenge/obj/Debug/net8.0/Module3Challenge.AssemblyInfo.cs
+/workspaces/codingChalMod3/Module3Challenge/obj/Debug/net8.0/Module3Challenge.csproj.CoreCompileInputs.cache
+/workspaces/codingChalMod3/Module3Challenge/obj/Debug/net8.0/Module3Challenge.sourcelink.json
+/workspaces/codingChalMod3/Module3Challenge/obj/Debug/net8.0/Module3Challenge.dll
+/workspaces/codingChalMod3/Module3Challenge/obj/Debug/net8.0/refint/Module3Challenge.dll
+/workspaces/codingChalMod3/Module3Challenge/obj/Debug/net8.0/Module3Challenge.pdb
+/workspaces/codingChalMod3/Module3Challenge/obj/Debug/net8.0/Module3Challenge.genruntimeconfig.cache
+/workspaces/codingChalMod3/Module3Challenge/obj/Debug/net8.0/ref/Module3Challenge.dll
