@@ -12,6 +12,9 @@ namespace ZooAnimalsAssignment
             Console.Write("Enter the animal's hunger level (1-10): ");
             int hungerLevel = int.Parse(Console.ReadLine());
             //Add code here for your if-else statement.
+
+            //
+            string message = (hungerLevel >= 8) ? "Listen to the Lion: Roar!" : "Listen to the Monkey: Ooh ooh!";
         }
     }
 }
