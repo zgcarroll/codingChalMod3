@@ -13,7 +13,7 @@ namespace ZooAnimalsAssignment
             int hungerLevel = int.Parse(Console.ReadLine());
             //Add code here for your if-else statement.
 
-            //
+            // Ternary Operator
             string message = (hungerLevel >= 8) ? "Listen to the Lion: Roar!" : "Listen to the Monkey: Ooh ooh!";
         }
     }
